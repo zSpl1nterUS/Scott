@@ -1,0 +1,213 @@
+{
+    "teste": {
+        "main": "This is of test"
+    },
+    "ping": {
+        "embed": {
+            "description": "Response Time:",
+            "description2": "Ping:",
+            "description3": "Latency:",
+            "description4": "WebSocket:"
+        }
+    },
+    "lang": {
+        "embed": {
+            "lang": "Here you are in Central to change my language.",
+            "lang1": "Here are the languages available at the moment:",
+            "lang2": "To choose some language simply react to the emojis below:",
+            "lang3": "Language Center",
+            "lang4": "Current language:",
+            "lang5": "Asked By:"
+        }
+    },
+    "botinfo": {
+        "embed": {
+            "one": "Creator:",
+            "two": "Creation Date:",
+            "three": "Users:",
+            "four": "Channels:",
+            "five": "Language:",
+            "six": "CPU Used:",
+            "seven": "Emojis:",
+            "eight": "Latency:",
+            "nine": "Version:",
+            "ten": "Prefix On Server:",
+            "eleven": "Playing Music On:",
+            "twelven": "My Description:",
+            "one1": "My Invitations:",
+            "two2": " I am a bot created to amuse everyone from your server, with various music commands, moderation and everything. Thank you for using me.",
+            "three2": "Guilds:",
+            "four2": "Uptime:",
+            "five2": "My Invite:",
+            "six2": "Click Here",
+            "seven2": "My Support Server:",
+            "eight2": "Asked By:",
+            "nine2": "en-US",
+            "ten2": "Servers",
+            "eleven2": "Hello",
+            "twelven2": "Total Commands:",
+            "a3": "Language on Server:"
+        }
+    },
+    "ui": {
+        "embed": {
+            "a": "Nickname:",
+            "b": "ID:",
+            "c": "Account Created In:",
+            "d": "Entered Into:",
+            "e": "Bot:",
+            "f": "Status:",
+            "g": "Tag:",
+            "h": "Administrator:",
+            "i": "Charges:",
+            "j": "Common Servers:",
+            "l": "Asked By:",
+            "m": "User Information:",
+            "n": "Yes",
+            "o": "No",
+            "p": "Do Not Disturb",
+            "q": "Absent",
+            "t": "Transmitting",
+            "u": "Invisible",
+            "v": "Available",
+            "x": "Without Charges",
+            "w": "en-US",
+            "z": "Profile Picture",
+            "a1": "Click Here",
+            "b1": "No Nickname"
+        }
+    },
+    "clear": {
+        "embed": {
+            "a": "you do not have **permission** to run this **command**",
+            "b": "Please provide a number between __**2**__ and **__100__** for the number of messages to be deleted!",
+            "c": "It was not possible to delete messages due to: **More than 14 days**",
+            "d": "Message Cleaning System ▸ **INFORMATIONS:**",
+            "e": "**Number Of Messages Deleted:**",
+            "f": "By"
+        }
+    },
+    "config": {
+        "embed": {
+            "a": "blocker of invitations from other **__servers__**.",
+            "b": "way to set up the message of ** __welcome__**",
+            "c": "way to configure the message of **__output__**",
+            "d": "way to set up the **__position__** that the member will receive when entering the **__server__**",
+            "e": "to change my prefix without your **__server__**",
+            "f": "to change my language on your **__server__**",
+            "g": "Asked By:",
+            "h": "Current:",
+            "i": "My Available Settings"
+        }
+    },
+    "creator": {
+        "embed": {
+            "a": "Hello, here is the Discord of my creator: **zSpl1nterUS_#8611**",
+            "b": "My Creator:",
+            "c": "Asked By:"
+        }
+    },
+    "ri": {
+        "embed": {
+            "a": "Type the name of some valid role!",
+            "b": "Name:",
+            "c": "Set Members:",
+            "d": "Color:",
+            "e": "Mentionable:",
+            "f": "Creation Date:",
+            "g": "en-US",
+            "h": "Yes",
+            "i": "No",
+            "j": "Job Information:"
+        }
+    },
+    "av": {
+        "embed": {
+            "a": "Download",
+            "b": "Photo of:"
+        }
+    },
+    "invite": {
+        "embed": {
+            "a": "Central To My **Links**!",
+            "b": "My Invitation:",
+            "c": "My Support Server:",
+            "d": "Click Here"
+        }
+    },
+    "ei": {
+        "embed": {
+            "a": "Emoji information:",
+            "b": "Server:",
+            "c": "Cheere Up:",
+            "d": "Create On:",
+            "e": "Indetifier:",
+            "f": "Emoji Not Found!",
+            "g": "Use Correctly:",
+            "h": "<Any emoji on the server>",
+            "i": "Yes",
+            "j": "No",
+            "k": "en-US",
+            "l": "Asked By:"
+        }
+    },
+    "help": {
+        "embed": {
+            "a": "Help Center - Scott",
+            "b": "Hello",
+            "c": "I'm __Scott__, a bot created with the intention of entertaining everyone on your servers.\n\nHere you find my list of commands.\nMy Prefix:",
+            "d": "Information:",
+            "e": "Music:",
+            "f": "Photoshop:",
+            "g": "Configuration",
+            "h": "Fun",
+            "i": "Moderation",
+            "j": "More information?",
+            "k": "To learn more information about each command use:",
+            "l": "<Command Name>",
+            "m": "Bot Created By: zSpl1nterUS_#8611"
+        }
+    },
+    "perms": {
+        "embed": {
+            "a": "User permissions:",
+            "b": "List of Permissions:"
+        }
+    },
+    "si": {
+        "embed": {
+            "a": "Brazil",
+            "b": "Central Europe",
+            "c": "Hong Kong",
+            "d": "Japan",
+            "e": "Russia",
+            "f": "Singapure",
+            "g": "South Africa",
+            "h": "Sydney",
+            "i": "US Central",
+            "j": "US East",
+            "k": "South South",
+            "l": "US West",
+            "m": "Western Europe",
+            "n": "Server Information:",
+            "o": "Owner:",
+            "a1": "Region:",
+            "b1": "Emojis:",
+            "c1": "Created On:",
+            "d1": "Channels:",
+            "e1": "Server ID:",
+            "f1": "Members:",
+            "g1": "Online:",
+            "h1": "Server Positions:",
+            "i1": "Channels",
+            "j1": "Members",
+            "k1": "Roles"
+        }
+    },
+    "at": {
+        "one": "AutoRole set for:",
+        "two": "The position must be below mine.",
+        "three": "Please mention the position you wish to be",
+        "four": ""
+    }
+}

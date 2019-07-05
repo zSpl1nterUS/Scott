@@ -1,0 +1,207 @@
+{
+    "teste": {
+        "main": "Isso é apenas um test"
+    },
+    "ping": {
+        "embed": {
+            "description": "Tempo de resposta:",
+            "description2": "Latência:",
+            "description3": "MS:",
+            "description4": "Desconexão:"
+        }
+    },
+    "lang": {
+        "embed": {
+            "lang": "Aqui você está na Central para mudar meu idioma.",
+            "lang1": "Aqui estão as línguas disponíveis no momento:",
+            "lang2": "Para escolher algum idioma, simplesmente reaja aos emojis abaixo:",
+            "lang3": "Centro de linguagem:",
+            "lang4": "Linguagem atual:",
+            "lang5": "Pedido por:"
+        }
+    },
+    "botinfo": {
+        "embed": {
+            "one": "Criador:",
+            "two": "Data de Criação:",
+            "three": "Usuários:",
+            "four": "Canais:",
+            "five": "Linguagem:",
+            "six": "CPU Usada:",
+            "seven": "Emojis:",
+            "eight": "Ping:",
+            "nine": "Versão:",
+            "ten": "Prefixo no Servidor:",
+            "eleven": "Tocando música em:",
+            "twelven": "Minha Descrição:",
+            "one1": "Meus Convites:",
+            "two2": "Sou um bot criado para divertir todo mundo do seu servidor, com vários comandos de música, moderação e tudo mais. Obrigado por me usar.",
+            "three2": "Guilds:",
+            "four2": "Online:",
+            "five2": "Meu Convite:",
+            "six2": "Clique Aqui",
+            "seven2": "Meu Servidor de Suporte:",
+            "eight2": "Pedido Por:",
+            "nine2": "pt-BR",
+            "ten2": "Servidores",
+            "eleven2": "Olá",
+            "twleven2": "Total de Comandos:",
+            "a3": "Linguagem no Servidor:"
+        }
+    },
+    "ui": {
+        "embed": {
+            "a": "Apelido:",
+            "b": "ID:",
+            "c": "Conta criada em:",
+            "d": "Entrou em:",
+            "e": "Bot:",
+            "f": "Status:",
+            "g": "Tag:",
+            "h": "Administrador:",
+            "i": "Cargos:",
+            "j": "Servidores em Comum:",
+            "l": "Pedido por:",
+            "m": "Informações do Usuário:",
+            "n": "Sim",
+            "o": "Não",
+            "p": "Não Perturbar",
+            "q": "Ausente",
+            "t": "Transmitindo",
+            "u": "Invisível",
+            "v": "Disponível",
+            "x": "Sem Cargos",
+            "w": "pt-BR",
+            "z": "Foto de Perfil:",
+            "a1": "Clique Aqui",
+            "b1": "Sem Apelido"
+        }
+    },
+    "clear": {
+        "embed": {
+            "a": "você não tem **permissão** para executar este **comando!**",
+            "b": "Por favor, forneça um número entre __**2**__ e **__100__** para o número de mensagens a serem excluídas!",
+            "c": "Não foi possível eliminar mensagens devido a: Mais de **14 dias**",
+            "d": "Sistema de Limpeza de Mensagens ▸ **INFORMAÇÕES:**",
+            "e": "**Número de menssagens deletadas:**",
+            "f": "Author"
+        }
+    },
+    "config": {
+        "embed": {
+            "a": "bloqueador de convites de outros **__servidores__**.",
+            "b": "maneira de configurar a mensagem de **__entrada__**",
+            "c": "maneira de configurar a mensagem de **__saída__**",
+            "d": "maneira de configurar a ** __ posição __ ** que o membro receberá quando entrar no **__servidor__**",
+            "e": "para mudar meu prefixo sem seu **__servidor__**",
+            "f": "para mudar meu idioma no seu **__servidor__**",
+            "g": "Pedido Por:",
+            "h": "Atual:",
+            "i": "Minhas Configurações Disponíveis"
+        }
+    },
+    "creator": {
+        "embed": {
+            "a": "Olá, aqui está o Discord do meu criador: **zSpl1nterUS_#8611**",
+            "b": "Meu Criador:",
+            "c": "Pedido Por:"
+        }
+    },
+    "ri": {
+        "embed": {
+            "a": "Coloque um nome de cargo válido!",
+            "b": "Nome:",
+            "c": "Membros Setados:",
+            "d": "Cor:",
+            "e": "Mencionavel:",
+            "f": "Data de Criação:",
+            "g": "pt-BR",
+            "h": "Sim",
+            "i": "Não",
+            "j": "Informações do Cargo:"
+        }
+    },
+    "av": {
+        "embed": {
+            "a": "Baixe Aqui",
+            "b": "Foto do:"
+        }
+    },
+    "invite": {
+        "embed": {
+            "a": "Central dos meus **Links**!",
+            "b": "Meu Convite:",
+            "c": "Meu Servidor de Suporte:",
+            "d": "Clique Aqui"
+        }
+    },
+    "ei": {
+        "embed": {
+            "a": "Informação Do Emoji:",
+            "b": "Server:",
+            "c": "Animado:",
+            "d": "Criado Em:",
+            "e": "Indentificador:",
+            "f": "Emoji não encontrado!",
+            "g": "Uso Correto:",
+            "h": "<Um Emoji Do Servidor>",
+            "i": "Sim",
+            "j": "Não",
+            "k": "pt-BR",
+            "l": "Pedido Por:"
+        }
+    },
+    "help": {
+        "embed": {
+            "a": "Central de Ajuda - Scott",
+            "b": "Olá",
+            "c": "Eu sou o __Scott__, um bot criado com a intenção de entreter todos em seus servidores.\n\nAqui você encontra minha lista de comandos.\nMeu Prefixo:",
+            "d": "Informação:",
+            "e": "Música:",
+            "f": "Photoshop:",
+            "g": "Configuração:",
+            "h": "Diversão:",
+            "i": "Moderação:",
+            "j": "Mais Informação?",
+            "k": "Para saber mais informação de algum comando, digite:",
+            "l": "<Nome do Comando>",
+            "m": "Bot Criado pelo: zSpl1nterUS_#8611"
+        }
+    },
+    "perms": {
+        "embed": {
+            "a": "Permissões do Usuário:",
+            "b": "List of Permissions:"
+        }
+    },
+    "si": {
+        "embed": {
+            "a": "Brasil",
+            "b": "Europa Central",
+            "c": "Hong Kong",
+            "d": "Japão",
+            "e": "Rússia",
+            "f": "Singapura",
+            "g": "África Do Sul",
+            "h": "Sydney",
+            "i": "EUA Central",
+            "j": "Leste dos EUA",
+            "k": "Sul do EUA",
+            "l": "Oeste dos EUA",
+            "m": "Europa Ocidental",
+            "n": "Informações do Servidor:",
+            "o": "Dono:",
+            "a1": "Região:",
+            "b1": "Emojis:",
+            "c1": "Criado Em:",
+            "d1": "Canais:",
+            "e1": "ID Do Servidor:",
+            "f1": "Membros:",
+            "g1": "Online:",
+            "h1": "Cargos Do Servidor:",
+            "i1": "Canais",
+            "j1": "Membros",
+            "k1": "Cargos"
+        }
+    }
+}
