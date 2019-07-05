@@ -16,7 +16,7 @@
 ***[Site]()*** **__(Desenvolvimento)__**
 
 <ul>
-    <li>Lista de Comandos</li>
+    <li>Lista de tipos de Comandos</li>
     </ul>
     
 - [x] Música;
