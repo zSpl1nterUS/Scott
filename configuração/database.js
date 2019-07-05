@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 const Schema = mongoose.Schema
 
-mongoose.connect('mongodb://admin:leozinho2004@ds163254.mlab.com:63254/scott', { useNewUrlParser: true }, (err) => {
+mongoose.connect('', { useNewUrlParser: true }, (err) => {
   if (err) return console.log('(DataBase) > Error trying to connect to DATABASE')
   console.log('(DataBase) > Successfully connected to DataBase')
 })
