@@ -1,3 +1,4 @@
-# Dean
-Source [XerphosBOT](https://github.com/AvengerSuicide01/Xerphos)
-## By **zSpl1nterUS_#8611** in __Discord__
+<div align="center">
+    <img src="https://imgur.com/jmkutVA.png"><br>
+    <h1>Scott</h1><br>
+</div>
