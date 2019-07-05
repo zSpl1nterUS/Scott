@@ -1,6 +1,6 @@
 const ytdl = require("ytdl-core")
 const YouTube = require('simple-youtube-api')
-const youtube = new YouTube('AIzaSyAhaC_o4HDaATQw_yKBr_uU5s18qUlnxlo')
+const youtube = new YouTube('')
 const fetchVideoInfo = require('youtube-info')
 const Discord = require("discord.js")
 const lista = require('../../configuração/queue.js')
