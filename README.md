@@ -19,9 +19,15 @@
     <li>Lista de Comandos</li>
     </ul>
 - [x] Música;
+
 - [x] Moderação;
+
 - [x] Informação;
+
 - [x] Configuração;
+
 - [x] Dono;
+
 - [x] Photoshop;
+
 - [x] Diversão
