@@ -33,7 +33,7 @@
     "mathjs": "^5.4.0",
     "moment": "^2.22.2",
     "moment-duration-format": "^2.2.2",
-    "mongoose": "^5.3.8",
+    "mongoose": "^5.7.5",
     "ms": "^2.1.1",
     "now": "^11.5.2",
     "opusscript": "0.0.6",
